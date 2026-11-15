@@ -1,0 +1,361 @@
+﻿texto,intencion
+hola,saludo
+buenos días,saludo
+buenas tardes,saludo
+buenas noches,saludo
+qué tal,saludo
+"hola, buen día",saludo
+saludos,saludo
+"hey, hola",saludo
+hola buenas,saludo
+buen día equipo,saludo
+qué onda,saludo
+"hola, ¿hay alguien ahí?",saludo
+"hola, necesito un favor",saludo
+"buenas, ¿me pueden atender?",saludo
+hola asistente,saludo
+holaa,saludo
+muy buenos días,saludo
+hola de nuevo,saludo
+"hola, ¿cómo estás?",saludo
+"buen día, una consulta",saludo
+saludos cordiales,saludo
+"hola, buenas tardes a todos",saludo
+"ey, hola",saludo
+"hola, ¿qué tal?",saludo
+ayuda,ayuda
+¿qué puedes hacer?,ayuda
+¿en qué me puedes ayudar?,ayuda
+muéstrame las opciones,ayuda
+menú,ayuda
+¿con qué temas me ayudas?,ayuda
+no sé qué preguntar,ayuda
+¿qué servicios ofreces?,ayuda
+necesito ayuda,ayuda
+¿cómo funciona este asistente?,ayuda
+¿qué problemas resuelves?,ayuda
+dime qué opciones hay,ayuda
+lista de temas por favor,ayuda
+¿qué consultas atiendes?,ayuda
+ayúdame,ayuda
+¿para qué sirves?,ayuda
+quiero ver qué puedes resolver,ayuda
+¿cuáles son tus funciones?,ayuda
+¿qué me puedes ofrecer?,ayuda
+ayuda por favor,ayuda
+¿qué opciones tengo?,ayuda
+¿puedes orientarme?,ayuda
+explícame cómo usarte,ayuda
+¿sobre qué puedo preguntarte?,ayuda
+olvidé mi contraseña,contrasena
+no recuerdo mi contraseña,contrasena
+mi cuenta está bloqueada,contrasena
+necesito restablecer mi clave,contrasena
+cómo cambio mi contraseña,contrasena
+se me bloqueó el usuario,contrasena
+perdí mi password,contrasena
+quiero resetear mi contraseña,contrasena
+mi contraseña expiró,contrasena
+no puedo iniciar sesión porque olvidé la clave,contrasena
+desbloquear mi cuenta,contrasena
+la contraseña no es válida,contrasena
+me pide cambiar la contraseña y no puedo,contrasena
+cuenta bloqueada por intentos fallidos,contrasena
+cómo recupero mi acceso,contrasena
+mi usuario quedó bloqueado,contrasena
+contraseña incorrecta aunque es la correcta,contrasena
+restablecer password del equipo,contrasena
+necesito una nueva contraseña,contrasena
+olvidé mis credenciales,contrasena
+se venció mi contraseña,contrasena
+no me deja entrar con mi clave,contrasena
+cambiar clave de acceso,contrasena
+mi cuenta de red está bloqueada,contrasena
+no puedo conectarme a la vpn,vpn
+la vpn no conecta,vpn
+error al abrir el cliente vpn,vpn
+necesito acceso remoto a la empresa,vpn
+se desconecta la vpn,vpn
+la vpn marca error 800,vpn
+cómo me conecto desde casa a la red de la oficina,vpn
+problemas con el túnel vpn,vpn
+mi vpn está muy lenta,vpn
+la vpn dice credenciales incorrectas,vpn
+no abre el cliente de vpn,vpn
+trabajo remoto y no tengo acceso,vpn
+se cae la conexión vpn a cada rato,vpn
+configurar vpn en mi laptop,vpn
+no logro entrar a los sistemas desde casa,vpn
+la vpn se queda en conectando,vpn
+vpn no funciona,vpn
+acceso remoto fallando,vpn
+instalar el cliente de vpn,vpn
+la vpn me da timeout,vpn
+no carga la vpn,vpn
+teletrabajo sin conexión a la red corporativa,vpn
+error de autenticación en la vpn,vpn
+no puedo trabajar en remoto,vpn
+no tengo internet,wifi
+el wifi no funciona,wifi
+no hay señal de wifi,wifi
+mi conexión a internet está muy lenta,wifi
+no puedo conectarme a la red,wifi
+el internet se cae seguido,wifi
+la red inalámbrica no aparece,wifi
+se corta el wifi,wifi
+estoy sin conexión,wifi
+el router no tiene luz,wifi
+problemas con la red de la oficina,wifi
+no me conecta al wifi,wifi
+el internet va muy lento,wifi
+mi computadora no detecta redes,wifi
+wifi conectado pero sin internet,wifi
+las páginas no cargan,wifi
+no hay conexión en mi escritorio,wifi
+el cable de red no funciona,wifi
+falla la conexión a internet,wifi
+no encuentro la red del trabajo,wifi
+la señal del wifi es muy débil,wifi
+internet intermitente,wifi
+se me va el wifi,wifi
+no puedo navegar,wifi
+mi impresora no imprime,impresora
+la impresora no responde,impresora
+se atoró el papel,impresora
+no hay tóner,impresora
+necesito imprimir un documento y no puedo,impresora
+la impresora imprime en blanco,impresora
+no encuentro la impresora en mi equipo,impresora
+el escáner no funciona,impresora
+la impresora sale con rayas,impresora
+se quedó trabada la cola de impresión,impresora
+falla la impresora de mi piso,impresora
+no conecta la impresora,impresora
+cómo agrego una impresora,impresora
+imprime muy lento,impresora
+la impresora marca error,impresora
+se acabó la tinta,impresora
+no puedo escanear documentos,impresora
+la impresión sale cortada,impresora
+el trabajo de impresión queda en espera,impresora
+impresora desconectada,impresora
+la copiadora no funciona,impresora
+instalar el controlador de la impresora,impresora
+imprime hojas en negro,impresora
+la impresora hace ruido y no jala,impresora
+necesito instalar un programa,software
+quiero instalar office,software
+cómo solicito una licencia,software
+necesito el software de diseño,software
+instalar una aplicación en mi laptop,software
+me pueden instalar python,software
+solicito acceso a un programa,software
+necesito actualizar mi software,software
+no me deja instalar,software
+licencia de adobe,software
+quiero que me instalen zoom,software
+cómo pido un programa nuevo,software
+se venció la licencia de mi programa,software
+falta un programa en mi equipo,software
+necesito autorización para instalar software,software
+instalar teams,software
+pedir una herramienta de trabajo,software
+actualización de windows pendiente,software
+requiero una aplicación para mi área,software
+puedo instalar mi propio programa,software
+el programa pide una licencia,software
+instalación de antivirus,software
+necesito un programa para editar pdf,software
+desinstalar una aplicación,software
+outlook no abre,correo
+no me llegan los correos,correo
+mi buzón está lleno,correo
+no puedo enviar correos,correo
+el correo se queda en la bandeja de salida,correo
+outlook se cierra solo,correo
+no sincroniza mi correo,correo
+cómo configuro mi correo,correo
+error al adjuntar un archivo,correo
+no recibo mensajes,correo
+mi correo no carga,correo
+se perdieron mis correos,correo
+outlook pide contraseña todo el tiempo,correo
+mi calendario no se actualiza,correo
+no puedo abrir un adjunto,correo
+los correos tardan en llegar,correo
+problema con la firma del correo,correo
+el correo rebota,correo
+buzón compartido no aparece,correo
+outlook está en modo sin conexión,correo
+no puedo acceder a mi email,correo
+correo corporativo no funciona,correo
+se llenó mi bandeja,correo
+configurar correo en el celular,correo
+mi computadora está muy lenta,equipo_lento
+la laptop se congela,equipo_lento
+el equipo tarda mucho en encender,equipo_lento
+se traba todo,equipo_lento
+mi pc va lentísima,equipo_lento
+se me cierra el programa solo,equipo_lento
+la computadora se reinicia sola,equipo_lento
+tarda mucho en abrir los archivos,equipo_lento
+mi laptop se calienta demasiado,equipo_lento
+se queda colgada la computadora,equipo_lento
+el ventilador hace mucho ruido,equipo_lento
+no tengo espacio en el disco,equipo_lento
+el sistema responde con retraso,equipo_lento
+pantalla azul en mi equipo,equipo_lento
+mi equipo se apaga de repente,equipo_lento
+tarda una eternidad en iniciar,equipo_lento
+la laptop va muy despacio,equipo_lento
+windows se pone lento,equipo_lento
+la computadora no responde,equipo_lento
+excel tarda mucho en abrir,equipo_lento
+mi máquina se traba al abrir varios programas,equipo_lento
+el equipo está lento desde la actualización,equipo_lento
+mi laptop tarda en responder,equipo_lento
+la computadora está pesada,equipo_lento
+mi monitor no enciende,pantalla
+la pantalla se ve negra,pantalla
+no hay imagen en el monitor,pantalla
+la pantalla parpadea,pantalla
+el monitor dice sin señal,pantalla
+se ve borrosa la pantalla,pantalla
+tengo rayas en la pantalla,pantalla
+mi segundo monitor no se detecta,pantalla
+la pantalla está muy oscura,pantalla
+el monitor se apaga solo,pantalla
+no se ve nada en la pantalla,pantalla
+cómo conecto un monitor externo,pantalla
+la resolución se ve mal,pantalla
+la pantalla se ve con colores raros,pantalla
+el cable hdmi no da imagen,pantalla
+pantalla rota,pantalla
+el brillo no cambia,pantalla
+mi pantalla tiene manchas,pantalla
+el monitor no funciona,pantalla
+la pantalla tiembla,pantalla
+no reconoce el monitor,pantalla
+aparece sin señal en mi pantalla,pantalla
+necesito un monitor nuevo,pantalla
+la imagen se ve estirada,pantalla
+¿cuál es el horario de soporte?,horario
+¿a qué hora atienden?,horario
+¿hasta qué hora hay soporte?,horario
+¿trabajan los sábados?,horario
+¿están abiertos hoy?,horario
+¿cuándo puedo llamar a soporte?,horario
+horario de atención,horario
+¿atienden en fin de semana?,horario
+¿a qué hora abren?,horario
+¿a qué hora cierran?,horario
+¿hay soporte por la noche?,horario
+¿qué días dan servicio?,horario
+¿hay alguien de soporte en la tarde?,horario
+dime el horario,horario
+¿en qué horario puedo reportar un problema?,horario
+¿atienden los domingos?,horario
+¿cuál es su horario de servicio?,horario
+¿hasta cuándo puedo pedir ayuda hoy?,horario
+¿están disponibles ahora?,horario
+¿cuál es el horario de la mesa de ayuda?,horario
+¿a qué hora empieza el soporte?,horario
+¿trabajan en días festivos?,horario
+¿cuándo me pueden atender?,horario
+horarios de la mesa de servicio,horario
+quiero abrir un ticket,ticket
+levanta un reporte por favor,ticket
+necesito hablar con una persona,ticket
+quiero que me atienda un agente,ticket
+genera un incidente,ticket
+crear un ticket de soporte,ticket
+pásame con un técnico,ticket
+quiero reportar una falla,ticket
+necesito que alguien venga a mi lugar,ticket
+abre un caso,ticket
+"no se resolvió, quiero un ticket",ticket
+levantar un reporte de mi problema,ticket
+quiero hablar con soporte,ticket
+registrar un incidente,ticket
+necesito atención humana,ticket
+comunícame con una persona real,ticket
+quiero dar seguimiento a mi problema con un ticket,ticket
+mándame un técnico,ticket
+solicito un ticket,ticket
+"ya intenté todo, necesito un agente",ticket
+reportar un problema,ticket
+genera un folio,ticket
+quiero levantar un caso,ticket
+escala mi problema con un especialista,ticket
+gracias,agradecimiento
+muchas gracias,agradecimiento
+te lo agradezco,agradecimiento
+"perfecto, gracias",agradecimiento
+"excelente, muchas gracias",agradecimiento
+"eso era todo, gracias",agradecimiento
+mil gracias,agradecimiento
+gracias por la ayuda,agradecimiento
+"muy amable, gracias",agradecimiento
+"listo, gracias",agradecimiento
+ok gracias,agradecimiento
+"genial, gracias",agradecimiento
+"gracias, me sirvió",agradecimiento
+"súper, gracias",agradecimiento
+agradezco tu ayuda,agradecimiento
+gracias por tu tiempo,agradecimiento
+"qué bien, gracias",agradecimiento
+"gracias, ya quedó",agradecimiento
+te agradezco mucho,agradecimiento
+muchas gracias por la información,agradecimiento
+"excelente servicio, gracias",agradecimiento
+"gracias, resolvió mi duda",agradecimiento
+"buenísimo, gracias",agradecimiento
+"gracias, eso me ayuda",agradecimiento
+adiós,despedida
+hasta luego,despedida
+nos vemos,despedida
+bye,despedida
+chao,despedida
+hasta pronto,despedida
+me despido,despedida
+que tengas buen día,despedida
+hasta mañana,despedida
+ya me voy,despedida
+"eso es todo, adiós",despedida
+salir,despedida
+terminar conversación,despedida
+cerrar el chat,despedida
+nos vemos luego,despedida
+"adiós, gracias",despedida
+hasta la próxima,despedida
+bye bye,despedida
+me retiro,despedida
+que estés bien,despedida
+"ya no necesito nada más, adiós",despedida
+finalizar,despedida
+"hasta luego, buen día",despedida
+cierro la sesión,despedida
+¿cuánto cuesta una pizza?,fuera_de_alcance
+cuéntame un chiste,fuera_de_alcance
+¿qué clima hará mañana?,fuera_de_alcance
+¿quién ganó el partido de ayer?,fuera_de_alcance
+recomiéndame una película,fuera_de_alcance
+¿cuál es la capital de Francia?,fuera_de_alcance
+dame una receta de tacos,fuera_de_alcance
+¿cuánto es 15 por 4?,fuera_de_alcance
+quiero comprar boletos de avión,fuera_de_alcance
+¿dónde queda la farmacia más cercana?,fuera_de_alcance
+¿qué hora es en Tokio?,fuera_de_alcance
+háblame de la historia de México,fuera_de_alcance
+¿cómo me hago rico?,fuera_de_alcance
+¿cuál es el mejor restaurante de la ciudad?,fuera_de_alcance
+canta una canción,fuera_de_alcance
+¿quién es el presidente?,fuera_de_alcance
+quiero reservar un hotel,fuera_de_alcance
+¿cómo se baila salsa?,fuera_de_alcance
+¿cuánto cuesta un coche nuevo?,fuera_de_alcance
+dime un dato curioso,fuera_de_alcance
+¿qué signo soy?,fuera_de_alcance
+ayúdame con mi tarea de matemáticas,fuera_de_alcance
+¿cuándo es el próximo feriado?,fuera_de_alcance
+¿cómo preparo un café?,fuera_de_alcance
